@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyMusic</string>
+    <string name="home">主页</string>
+    <string name="song_sheet">歌单</string>
+    <string name="list">榜单</string>
+    <string name="search">搜索歌曲或专辑</string>
+</resources>
